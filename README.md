@@ -1,8 +1,8 @@
-# React Todo App 📝
+# Todo App 📝
 
-# 🔗 https://reactify-todo-app.netlify.app/ 
+# 🔗 https://listify-todos.netlify.app/
 
-The "React Todo List with Local Storage" project is a web-based task management application developed using React, designed to empower users to organize their tasks effectively while utilizing local storage for data persistence. This open-source project is hosted on Netlify.
+The "Todo List with Local Storage" project is a web-based task management application developed using React, designed to empower users to organize their tasks effectively while utilizing local storage for data persistence. This open-source project is hosted on Netlify.
 
 # Tech Stack 💻:
 
@@ -26,7 +26,7 @@ The "React Todo List with Local Storage" project is a web-based task management 
   
 **Task Creation ⚡:**
 
-* Users can easily create new tasks, task name, task description and catagory for each task.
+* Users can easily create new tasks, task name, task description and category for each task.
   
 **Task Status ✔️:**
 
@@ -52,24 +52,38 @@ The "React Todo List with Local Storage" project is a web-based task management 
 
 *  Monitor your overall task progress, providing a visual representation of your accomplishments.
 
+By creating the "Todo App with Local Storage" project using React and integrating local storage for data persistence, you are offering a valuable task management solution that combines usability with data resilience. This open-source approach encourages collaboration and continuous improvement, making it an ideal choice for developers seeking a reliable and customizable task management application that can be deployed locally and maintain task data across sessions.
+
+# Getting Started 🚀:
 
 
+## 1.Clone the Repository:
 
-By creating the "React Todo App with Local Storage" project using React and integrating local storage for data persistence, you are offering a valuable task management solution that combines usability with data resilience. This open-source approach encourages collaboration and continuous improvement, making it an ideal choice for developers seeking a reliable and customizable task management application that can be deployed locally and maintain task data across sessions.
+in bash
+git clone https://github.com/your-username/todoapp.git
+
+## 2.Navigate to the Project Directory:
+
+in bash
+cd todoapp
+
+## 3.Install Dependencies:
+
+in bash
+npm install
+
+## 4.Start the Development Server:
+
+in bash
+npm start
+Open your browser and navigate to http://localhost:3000 to view the application.
+
+### Contributing 🤝
+Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements or bug fixes.
+
+### License 📜
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-# Screenshots📸:
-
-![Group 2](https://github.com/iamvijay98/React-TodoApp/assets/133564952/75a908d5-e44c-40b5-9bea-29c305e8b30f)
-
-![Group 6](https://github.com/iamvijay98/React-TodoApp/assets/133564952/efc14399-2800-4abe-8428-01205d06f56b)
-
-![Group 5](https://github.com/iamvijay98/React-TodoApp/assets/133564952/26de7681-cdf4-4274-aad4-82d4ec160556)
-
-![Group 3](https://github.com/iamvijay98/React-TodoApp/assets/133564952/d70bcf10-c0bb-4535-9c7a-ac92cd507f90)
-
-![Group 4](https://github.com/iamvijay98/React-TodoApp/assets/133564952/ead2a137-f5e6-4645-9022-754ad59c796a)
-
-![localhost_3000_ (2)](https://github.com/iamvijay98/React-TodoApp/assets/133564952/34f73c9c-6bb2-48a9-ad93-ef9e6bc25df3)
 
 
